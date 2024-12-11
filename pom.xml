@@ -56,7 +56,7 @@
           <manifest>
             <addClasspath>true</addClasspath>
             <classpathPrefix>lib/</classpathPrefix>
-            <mainClass>com.qa.MyClass</mainClass>
+            <mainClass>com.qa.App</mainClass>
           </manifest>
         </archive>
       </configuration>
